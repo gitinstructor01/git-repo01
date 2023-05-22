@@ -1,4 +1,3 @@
-// WORKING ON THE ERRORS
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
